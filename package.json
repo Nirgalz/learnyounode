@@ -1,0 +1,19 @@
+{
+  "name": "learningnode",
+  "version": "0.1.1",
+  "description": "learnyounode",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirgalz/learnyounode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nirgalz/learnyounode/issues"
+  },
+  "homepage": "https://github.com/Nirgalz/learnyounode#readme"
+}
